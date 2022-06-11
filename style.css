@@ -1,0 +1,9 @@
+.text-center {
+    text-align: center;
+}
+p {
+    border: 4mm ridge rgba(170, 50, 220, .6);
+    width: 80vw;
+    height: auto;
+}
+
